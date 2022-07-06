@@ -111,22 +111,31 @@ body {
 .donate-plan {
     width: 80%;
     padding-left: 10%;
-    
 }
 .donate-food {
     margin-right: 30px;
+    padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: rgb(198, 220, 211);
+    padding-bottom: 20px;
+    background-color: rgb(216, 233, 243);
 }
 .donate-shelter {
+
     margin-right: 30px;
+    padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: rgb(198, 220, 211);
+    padding-bottom: 20px;
+    background-color: rgb(241, 222, 230);
 }
 .donate-edu {
+    padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: rgb(198, 220, 211);
+    padding-bottom: 20px;
+    background-color: rgb(241, 239, 210);
+}
+.food-icon {
+    padding-top: 5px;
 }
