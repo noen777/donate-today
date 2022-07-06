@@ -9,8 +9,13 @@ body {
     position: relative;
     background-image: url(images/donation13.jpg);
     background-size: cover;
-    height: 700px;
+    height: 600px;
     overflow: hidden;
+}
+.top-banner {
+    flex-wrap: wrap;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .banner-text {
     text-align:center;
@@ -18,21 +23,34 @@ body {
 }
 .headline {
     margin-top: 200px;
-    font-size: 80px;
+    font-size: 60px;
    
 
     }
 .center {
+    font-size: 20px;
     margin-top: 10px;
-    margin-left: 30%;
+    margin-left: 20%;
     margin-right: 30%;
-    width: 35%;
+    width: 55%;
     border: 3px;
-    padding: 5px;
 }
 .donate-button {
   text-decoration: none;
   color: white;
   background-color: rgb(231, 43, 37);
   padding: 15px 40px;
+}
+.second-head {
+    font-size: 40px;
+    text-align: center;
+}
+.second-para{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 2%;
+    margin-right: 30%;
+    width: 55%;
+    border: 5px;
 }
