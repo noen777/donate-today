@@ -18,11 +18,10 @@ body {
 }
 .headline {
     margin-top: 200px;
-    font-size: 50px
-    span { 
-        width:50%
+    font-size: 80px;
+   
+
     }
-}
 .center {
     margin-top: 10px;
     margin-left: 30%;
