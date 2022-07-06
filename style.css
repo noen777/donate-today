@@ -1,8 +1,39 @@
 body {
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
     font-family: 'Fira Sans', sans-serif;
+
+}
+.top-header {
+    position: relative;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    height: 700px;
+    overflow: hidden;
 }
 .banner-text {
-    font-size: 60px;
-    text-align: center;
+    text-align:center;
+    color: white;
 }
-section {bac}
+.headline {
+    margin-top: 200px;
+    font-size: 50px
+    span { 
+        width:50%
+    }
+}
+.center {
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 35%;
+    border: 3px;
+    padding: 5px;
+}
+.donate-button {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(231, 43, 37);
+  padding: 15px 40px;
+}
