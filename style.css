@@ -119,6 +119,7 @@ body {
     padding-right: 20px;
     padding-bottom: 20px;
     background-color: rgb(216, 233, 243);
+    border-radius: 5px;
 }
 .donate-shelter {
 
@@ -136,6 +137,44 @@ body {
     padding-bottom: 20px;
     background-color: rgb(241, 239, 210);
 }
-.food-icon {
-    padding-top: 5px;
+.donate-help {
+    width: 450px;
+    height: 350px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+.donate-img {
+    width: 400px;
+    height: 300px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+#caption {
+    text-align: left;
+}
+.last-box {
+    width: 50%;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(238, 229, 189);   
+}
+.sub-div {
+    display: flex;
+    padding-left: 25%;
+    padding-top: 60px;
+}
+.sub-box { 
+        width: 250px;
+        height: 35px;
+        border: 50px;
+       font-size: 15px;
+}
+.subs-button {
+    text-decoration: none;
+    width: 120px;
+    height: 37px;
+    background-color: rgb(241, 97, 97);
+    border: none;
+    color: white;
+    font-size: larger;
 }
