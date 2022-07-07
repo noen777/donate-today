@@ -113,29 +113,34 @@ body {
     padding-left: 10%;
 }
 .donate-food {
+    width: 30%;
+    height:250px;
     margin-right: 30px;
     padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     background-color: rgb(216, 233, 243);
     border-radius: 5px;
 }
 .donate-shelter {
-
+    width: 30%;
     margin-right: 30px;
     padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     background-color: rgb(241, 222, 230);
+    border-radius: 5px;
 }
 .donate-edu {
+    width: 30%;
     padding-top: 25px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     background-color: rgb(241, 239, 210);
+    border-radius: 5px;
 }
 .donate-help {
     width: 450px;
@@ -183,6 +188,7 @@ body {
 }
 footer{
     padding-top: 30px;
+    padding-bottom: 20px;
     height: 100px;
     background-color: black;
     text-align: center;
